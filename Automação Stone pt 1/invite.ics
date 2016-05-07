@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20140827T190000Z
+DTEND:20140827T210000Z
+DTSTAMP:20140820T201028Z
+ORGANIZER;CN=Nathalie Gaston:mailto:nathalie.gaston@avante.com.vc
+UID:r7eoaitdssnfa0tqdc2tu30ah8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Eduardo Pacheco;X-NUM-GUESTS=0:mailto:eduardo.pacheco@avante.com.vc
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Nathalie Gaston;X-NUM-GUESTS=0:mailto:nathalie.gaston@avante.com.vc
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Todos os Avanters;X-NUM-GUESTS=0:mailto:todos@avante.com.vc
+CREATED:20140818T184152Z
+DESCRIPTION:Em breve a Avante vai estar de cara nova e queremos dividir est
+ e grande marco com você! Reserve esta data para um evento com a nova equipe
+  Avante. \nAguarde mais detalhes!\nView your event at https://www.google.co
+ m/calendar/event?action=VIEW&eid=cjdlb2FpdGRzc25mYTB0cWRjMnR1MzBhaDggZWR1YX
+ Jkby5wYWNoZWNvQGF2YW50ZS5jb20udmM&tok=MjkjbmF0aGFsaWUuZ2FzdG9uQGF2YW50ZS5jb
+ 20udmM2YzI3M2YxOGM2MzJiOGE5ZmZkZjk3NzFlMzliMzg2N2QzMDZkMWI5&ctz=America/Sao
+ _Paulo&hl=en.
+LAST-MODIFIED:20140820T201028Z
+LOCATION:Avante\, Rua Nigéria 36
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:* NOVA DATA *: reserve sua agenda para conhecer a nova Avante 
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
