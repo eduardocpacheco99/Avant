@@ -1,0 +1,1 @@
+{"status":"error","message":"Invalid JSON input: Unexpected character ('%' (code 37)): expected a valid value (number, String, array, object, 'true', 'false' or 'null') at line 1, column 2","requestId":"97478e56-fbd4-49fe-b6f2-f8cbc9e55b49"}

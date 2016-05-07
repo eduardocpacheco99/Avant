@@ -1,0 +1,25 @@
+Reunião Dashboard da Loja
+
+Cartões Vendidos
+0. formulário enrico para cadastrar meta e realizado
+0.1 - formulário renan cadastrar valores financeiros
+
+1. Receita 
+Unidade: Reais.
+sum(month)
+Apresentação: 
+Relógio com meta e valor corrente.
+
+Loja:
+meta mensal -> painel principal
+2. Numero de vendas por produto ( e volume de vendas) MTD
+Apresentação: tabela.
+
+3. total de receita por mês versus a meta.
+Apresentação: gráfico de barras
+
+4. acumulado do total dos meses versus a média x número de meses
+
+5. Relógio da meta total nos 6 meses acumuladas versus o realizado acumulado.
+
+6. Loja: leadtime por produto

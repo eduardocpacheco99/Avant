@@ -1,0 +1,45 @@
+Graph pattern mining
+
+A priori based
+
+a size-k subgraph is frequent if and only of all this subgraphs are frequent.	
+
+Candidated generated, candidate pruning, support counting, candidate elimination
+
+
+Vertex Growing vs Edge Growing
+
+AGM -> Apriori-based graph mining
+FSG -> Frequent Subgraph
+
+
+gSpan -> pattern Growth Approach
+- Define a order
+-  try to control the order of growth
+- Flatten a graph into a sequence right most graph
+
+
+Close Graphs: a graph G is closed if and only if are no supergraph of G with the same support as G.
+Lossless compression
+
+
+gIndex -> used in frequent subgraph
+directly index substructures
+INDEX ONLY CLOSED PATTERNS!
+-> index discriminative substructures
+
+
+SpiderMining
+
+Pattern Based Classification:
+
+CBA: classification based associations
+CMAR:Rule pruning
+
+
+Pattern frequency is tier to discriminative power
+
+
+
+
+
